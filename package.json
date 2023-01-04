@@ -1,0 +1,72 @@
+{
+  "name": "@uzenith360/ngx-package-starter",
+  "version": "0.0.0",
+  "description": "An Angular library NPM starter (or example) project to ease setup of Angular libraries as NPM packages from your GitHub repo",
+  "scripts": {
+    "clean": "rm -rf ./dist",
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "npm run clean && ng build",
+    "watch": "ng build --watch --configuration development",
+    "prepack": "npm run build",
+    "test": "ng test",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uzenith360/ngx-package-starter.git"
+  },
+  "keywords": [
+    "typescript",
+    "angular"
+  ],
+  "author": "@uzenith360",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzenith360/ngx-package-starter/utils/issues"
+  },
+  "homepage": "https://github.com/uzenith360/ngx-package-starter/utils#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
+  },
+  "files": [
+    "dist/**/*"
+  ],
+  "dependencies": {
+    "@angular/animations": "~13.3.0",
+    "@angular/common": "~13.3.0",
+    "@angular/compiler": "~13.3.0",
+    "@angular/core": "~13.3.0",
+    "@angular/forms": "~13.3.0",
+    "@angular/platform-browser": "~13.3.0",
+    "@angular/platform-browser-dynamic": "~13.3.0",
+    "@angular/router": "~13.3.0",
+    "rxjs": "~7.5.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.11.4"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~13.3.10",
+    "@angular/cli": "~13.3.5",
+    "@angular/compiler-cli": "~13.3.0",
+    "@types/jasmine": "~3.10.0",
+    "@types/node": "^12.11.1",
+    "jasmine-core": "~4.0.0",
+    "karma": "~6.3.0",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage": "~2.1.0",
+    "karma-jasmine": "~4.0.0",
+    "karma-jasmine-html-reporter": "~1.7.0",
+    "typescript": "~4.6.2",
+    "@commitlint/cli": "^17.3.0",
+    "@commitlint/config-conventional": "^17.3.0",
+    "ng-packagr": "^13.0.0",
+    "husky": "^8.0.2"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
+}
