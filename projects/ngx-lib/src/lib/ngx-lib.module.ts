@@ -1,14 +1,11 @@
 import { NgModule } from '@angular/core';
 import { NgxLibComponent } from './ngx-lib.component';
 
-
-
 @NgModule({
   declarations: [
     NgxLibComponent
   ],
-  imports: [
-  ],
+  imports: [],
   exports: [
     NgxLibComponent
   ]
