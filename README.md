@@ -4,6 +4,14 @@ An Angular library NPM starter (or example) project to ease setup of Angular lib
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
+## Setup
+
+1. Install the latest version of angular CLI on your machine
+2. git clone https://github.com/uzenith360/npm-package-starter
+3. npm install
+4. Search/replace my github handle and NPM Package name/Github repo with yours
+5. Create github/NPM/Synk auth tokens (See secrets section below) and add to the secrets in your github repo
+
 ## Secrets
 
 For this setup you will need to create 3 auth tokens and save them as secrets in your github repo's settings, 
@@ -13,6 +21,10 @@ For this setup you will need to create 3 auth tokens and save them as secrets in
 
 ## Support
 
-For support, email wogwugwu.zenith@gmail.com, i will do my best to respond to all issues
+For support, email wogwugwu.zenith@gmail.com, I will do my best to respond to all issues
+
+## Important
 
 Don't forget to search/replace my github handle and NPM Package name/Github repo with yours, after you fork/clone/download this repo :)
+
+If you like it remember to **give repo a star**⭐
