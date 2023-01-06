@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. git clone https://github.com/uzenith360/npm-package-starter
 3. npm install
 4. Search/replace my github handle and NPM Package name/Github repo with yours
-5. Create github/NPM/Synk auth tokens (See secrets section below) and add to the secrets in your github repo
+5. Create github/NPM/Synk tokens (See section below) and add to the secrets in your github repo
 6. Delete the ngx-lib example library together with references in the angular.json and tsconfig.json files then add your library using this command (`ng generate library your-library-here`)
 
 ## Secrets
