@@ -9,11 +9,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 1. Install the latest version of angular CLI on your machine `npm install -g @angular/cli@latest`
 2. git clone https://github.com/uzenith360/npm-package-starter
 3. npm install
-4. Search/replace my github handle and NPM Package name/Github repo with yours
+4. Search/replace my github handle and NPM Package name/Github repo with yours.
 5. Create github/NPM/Synk tokens (See next section) and add to the secrets in your github repo
 6. Delete the ngx-lib example library in the `projects/` folder together with its references in the angular.json and tsconfig.json files, then create your library using this command (`ng generate library your-library`)
-7. List any `@angular/*` dependencies your library depends on as peer dependencies in the package.json file that's in your library folder. This ensures that when library modules ask for Angular, they all get the exact same module. 
-8. Optional: You can create an example app, to view your library development in action `ng generate application your-example-app` and serve side-by-side with your library while developing `ng serve your-example-app` `ng build your-library --watch`
+7. Search/replace the example library name `ngx-lib` with yours
+8. List any `@angular/*` dependencies your library depends on as peer dependencies in the package.json file that's in your library folder. This ensures that when library modules ask for Angular, they all get the exact same module. 
+9. Optional: You can create an example app, to view your library development in action `ng generate application your-example-app` and serve side-by-side with your library while developing `ng serve your-example-app` `ng build your-library --watch`
 
 ## Secrets
 
@@ -28,6 +29,6 @@ For support, open an issue or email wogwugwu.zenith@gmail.com, I will do my best
 
 ## Important
 
-Don't forget to search/replace my github handle and NPM Package name/Github repo with yours, after you fork/clone/download this repo :)
+Don't forget to search/replace my github handle, NPM Package name/Github repo and example library name with yours, after you fork/clone/download this repo :)
 
 If you like it remember to **give repo a star**⭐
