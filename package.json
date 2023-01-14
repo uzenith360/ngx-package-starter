@@ -23,9 +23,9 @@
   "author": "@uzenith360",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/uzenith360/ngx-package-starter/utils/issues"
+    "url": "https://github.com/uzenith360/ngx-package-starter/issues"
   },
-  "homepage": "https://github.com/uzenith360/ngx-package-starter/utils#readme",
+  "homepage": "https://github.com/uzenith360/ngx-package-starter#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/",
     "access": "public"
