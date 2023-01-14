@@ -14,7 +14,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 6. Delete the ngx-lib example library in the `projects/` folder together with its references in the angular.json and tsconfig.json files, then create your library using this command (`ng generate library your-library`)
 7. Search/replace the example library name `ngx-lib` with yours
 8. List any `@angular/*` dependencies your library depends on as peer dependencies in the package.json file that's in your library folder. This ensures that when library modules ask for Angular, they all get the exact same module. 
-9. Optional: You can create an example app, to view your library development in action `ng generate application your-example-app` and serve side-by-side with your library while developing `ng serve your-example-app` `ng build your-library --watch`
+9. Optional: You can create an example app, to view your library development in action `ng generate application your-example-app` and serve side-by-side with your library while developing `ng build your-library --watch` `ng serve -o your-example-app`
 
 ## Secrets
 
