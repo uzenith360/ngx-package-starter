@@ -1,6 +1,11 @@
 {
-  "name": "ngx-lib",
-  "version": "0.0.1",
+  "name": "@uzenith360/ngx-lib",
+  "version": "0.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public",
+    "tag": "latest"
+  },
   "peerDependencies": {
     "@angular/common": "^15.0.0",
     "@angular/core": "^15.0.0",
