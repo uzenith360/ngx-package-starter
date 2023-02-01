@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/uzenith360/ngx-package-starter/compare/v1.0.3...v1.0.4) (2023-02-01)
+
+
+### Bug Fixes
+
+* remove test build script and use the release.yml instead ([9fc5900](https://github.com/uzenith360/ngx-package-starter/commit/9fc5900f58da5b166b68443fca372ea1a51ad994))
+
 ## [1.0.3](https://github.com/uzenith360/ngx-package-starter/compare/v1.0.2...v1.0.3) (2023-01-28)
 
 
