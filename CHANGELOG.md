@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/uzenith360/ngx-package-starter/compare/v1.0.4...v1.1.0) (2023-10-01)
+
+
+### Features
+
+* upgrade to angular 16 ([93aeb69](https://github.com/uzenith360/ngx-package-starter/commit/93aeb6984ae0a9a61cbaac7403b0973e8f09cc75))
+
 ## [1.0.4](https://github.com/uzenith360/ngx-package-starter/compare/v1.0.3...v1.0.4) (2023-02-01)
 
 
