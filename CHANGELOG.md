@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/uzenith360/ngx-package-starter/compare/v1.2.0...v1.3.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* upgrade to typescript 5.5.4 ([39449cb](https://github.com/uzenith360/ngx-package-starter/commit/39449cbbe6a0a02d78f616fddc9ad8f8a8afb345))
+
+
+### Features
+
+* upgrade to angular 18 ([a5ad46c](https://github.com/uzenith360/ngx-package-starter/commit/a5ad46c93ba7c9d8cd71e6ed3e1ffe3abc9beb23))
+
 # [1.2.0](https://github.com/uzenith360/ngx-package-starter/compare/v1.1.0...v1.2.0) (2024-01-11)
 
 
