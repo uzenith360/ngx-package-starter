@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/uzenith360/ngx-package-starter/compare/v1.1.0...v1.2.0) (2024-01-11)
+
+
+### Features
+
+* upgrade to angular v17 ([f52d3d1](https://github.com/uzenith360/ngx-package-starter/commit/f52d3d17337628d95891f2e59e7c7053c8c45838))
+
 # [1.1.0](https://github.com/uzenith360/ngx-package-starter/compare/v1.0.4...v1.1.0) (2023-10-01)
 
 
