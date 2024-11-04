@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/uzenith360/ngx-package-starter/compare/v1.3.0...v1.3.1) (2024-11-04)
+
+
+### Bug Fixes
+
+* upgrade to angular 18 ([097e8f6](https://github.com/uzenith360/ngx-package-starter/commit/097e8f69d0ed74b7a602bb270db996b19175759e))
+
 # [1.3.0](https://github.com/uzenith360/ngx-package-starter/compare/v1.2.0...v1.3.0) (2024-11-04)
 
 
