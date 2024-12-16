@@ -1,14 +1,14 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'lib-ngx-lib',
-  template: `
+    selector: 'lib-ngx-lib',
+    template: `
     <p>
       ngx-lib works!
     </p>
   `,
-  styles: [
-  ]
+    styles: [],
+    standalone: false
 })
 export class NgxLibComponent implements OnInit {
 
