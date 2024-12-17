@@ -2,7 +2,7 @@
 
 An Angular library NPM starter (or example) project to ease setup of Angular libraries as NPM packages from your GitHub repo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5 but updated to version 17.0.9.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5 but updated to version 19.
 
 ## Setup
 
