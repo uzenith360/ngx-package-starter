@@ -1,3 +1,12 @@
+## [1.3.3](https://github.com/uzenith360/ngx-package-starter/compare/v1.3.2...v1.3.3) (2024-12-17)
+
+
+### Bug Fixes
+
+* upgrade to angular 19 ([8b2e5a3](https://github.com/uzenith360/ngx-package-starter/commit/8b2e5a3ff8d29d7d172f9e7fb87dd9e07799a220))
+* upgrade to angular 19 ([c91b54b](https://github.com/uzenith360/ngx-package-starter/commit/c91b54b759b24636c2748b108b04bf0bed46fe81))
+* upgrade to angular 19 ([c340e2c](https://github.com/uzenith360/ngx-package-starter/commit/c340e2cff8cae0f56f5b12c7a75f00ae2819d0c6))
+
 ## [1.3.2](https://github.com/uzenith360/ngx-package-starter/compare/v1.3.1...v1.3.2) (2024-12-17)
 
 
